@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>user2</sys_created_by>
+        <sys_created_on>2020-03-23 04:21:36</sys_created_on>
+        <sys_id>3300fa14edb700107f4474e2c518e57b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_eca_reques_eca_request.x_cdltd_eca_reques.eca_request_user</sys_name>
+        <sys_package display_value="ECA Request" source="x_cdltd_eca_reques">5c1a1e5ced7700107f4474e2c518e579</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ECA Request">5c1a1e5ced7700107f4474e2c518e579</sys_scope>
+        <sys_security_acl display_value="x_cdltd_eca_reques_eca_request">7700fa14edb700107f4474e2c518e578</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3300fa14edb700107f4474e2c518e57b</sys_update_name>
+        <sys_updated_by>user2</sys_updated_by>
+        <sys_updated_on>2020-03-23 04:21:36</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_eca_reques.eca_request_user" name="x_cdltd_eca_reques.eca_request_user">3b00ba14edb700107f4474e2c518e5b6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
