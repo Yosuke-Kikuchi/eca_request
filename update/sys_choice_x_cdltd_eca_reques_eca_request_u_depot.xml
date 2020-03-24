@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_depot" table="x_cdltd_eca_reques_eca_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9fd4710edf700107f4474e2c518e512</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>ny</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edfd4710edf700107f4474e2c518e520</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buenos Aires</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9fd4710edf700107f4474e2c518e522</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>ba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Santa Clara</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65fd4710edf700107f4474e2c518e524</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>sc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21fd4710edf700107f4474e2c518e526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9fd4710edf700107f4474e2c518e527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5fd4710edf700107f4474e2c518e529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_depot</element>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:32:15</sys_created_on>
+            <sys_id>a9fd4710edf700107f4474e2c518e51f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_depot</sys_name>
+            <sys_package display_value="ECA Request" source="x_cdltd_eca_reques">5c1a1e5ced7700107f4474e2c518e579</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ECA Request">5c1a1e5ced7700107f4474e2c518e579</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_eca_reques_eca_request_u_depot</sys_update_name>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:32:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

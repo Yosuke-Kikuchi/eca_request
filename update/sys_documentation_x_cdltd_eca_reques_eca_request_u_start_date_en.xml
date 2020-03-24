@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_start_date" label="Start date" language="en" table="x_cdltd_eca_reques_eca_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_start_date</element>
+            <help/>
+            <hint/>
+            <label>Start date</label>
+            <language>en</language>
+            <name>x_cdltd_eca_reques_eca_request</name>
+            <plural>Start dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>user2</sys_created_by>
+            <sys_created_on>2020-03-23 06:23:42</sys_created_on>
+            <sys_id>600c4bdcedb700107f4474e2c518e574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start date</sys_name>
+            <sys_package display_value="ECA Request" source="x_cdltd_eca_reques">5c1a1e5ced7700107f4474e2c518e579</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ECA Request">5c1a1e5ced7700107f4474e2c518e579</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_eca_reques_eca_request_u_start_date_en</sys_update_name>
+            <sys_updated_by>user2</sys_updated_by>
+            <sys_updated_on>2020-03-23 06:23:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
